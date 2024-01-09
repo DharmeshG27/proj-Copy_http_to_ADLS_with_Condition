@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DG",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59445124-4a98-4ceb-85a5-ec85759b6e2c",
+		"tenantId": "93f748da-a9a6-4c83-b39f-dc353b4b98ef"
+	}
+}
